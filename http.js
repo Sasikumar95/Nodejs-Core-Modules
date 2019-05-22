@@ -1,7 +1,7 @@
 var http = require('http');
 
 var server = http.createServer(function(req, res){
-    res.end(" your server is started");
+    res.end("Server Started");
 });
 
 server.listen(1234,'localhost',function(){
