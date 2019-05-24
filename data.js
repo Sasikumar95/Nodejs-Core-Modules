@@ -1,9 +1,15 @@
  
  
- const datamodule= ()=>{
-     console.log("I am ur module");
+ const sayName= ()=>{
+     console.log("Name : Sasikumar");
  }
 
 
+ const sayAddress= ()=>{
+    console.log("Address : Chennai");
+}
 
- module.exports= datamodule;
+
+
+module.exports.sayName= sayName;
+module.exports.sayAddress= sayAddress;
