@@ -13,8 +13,7 @@
  The assert module provides a simple set of assertion tests that can be used to test invariants.
 <details>
   <summary>Ex</summary>
-  <p> - by Refsnes Data. All Rights Reserved.</p>
-  <p>All content and graphics on this web site are the property of the company Refsnes Data.</p>
+  <p>not fount</p>
 </details>
  
 ### buffer
