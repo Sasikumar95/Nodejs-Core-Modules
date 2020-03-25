@@ -9,9 +9,13 @@
    repl, stream, string decoder, timers, tls_(ssl), tracing, tty, dgram, url, util, v8, vm, zlib
   ```
   they are, 
-  
+<details>
 ### assert
  The assert module provides a simple set of assertion tests that can be used to test invariants.
+  <summary>Ex</summary>
+  <p> - by Refsnes Data. All Rights Reserved.</p>
+  <p>All content and graphics on this web site are the property of the company Refsnes Data.</p>
+</details>
  
 ### buffer
  Prior to the introduction of TypedArray in ECMAScript 2015 (ES6), the JavaScript language had no mechanism for reading or manipulating streams of binary data. The Buffer class was introduced as part of the Node.js API to make it possible to interact with octet streams in the context of things like TCP streams and file system operations.
