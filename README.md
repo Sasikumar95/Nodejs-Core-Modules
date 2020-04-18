@@ -34,6 +34,8 @@
         assert.ok(expected, "health is not good");
         
       ```
+      more [Node.js/assert](https://nodejs.org/api/assert.html)
+       
 </details>
 
 ### buffer
