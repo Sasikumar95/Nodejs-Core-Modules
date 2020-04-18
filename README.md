@@ -17,7 +17,7 @@
 ```
 var assert = require("assert");
 var everyDay = "time to eat"  relavant information
-//everyDay = "not time to eat"  irrelavant information ––> 
+// var everyDay = "not time to eat"  irrelavant information
 
 function onhabit(goodHabit) {
   return goodHabit===everyDay
