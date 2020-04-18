@@ -13,7 +13,7 @@
  The assert module provides a simple set of assertion tests that can be used to test invariants.
 <details>
   <summary>Ex</summary>
-   A system funcationality based unwanted information coming. that system will throw the error.
+   A system funcationality based unwanted information coming. that time system will throw the error.
        
        ```
          var assert = require("assert");
