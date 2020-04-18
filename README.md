@@ -13,7 +13,21 @@
  The assert module provides a simple set of assertion tests that can be used to test invariants.
 <details>
   <summary>Ex</summary>
-  <p>not fount</p>
+  A system funcationality based unwanted information coming. that system will throw the error.
+  <code>
+    var assert = require("assert");
+
+var everyDay = "time to eat"  relavant information
+<! –– var everyDay = "not time to eat"  irrelavant information ––> 
+function onhabit(goodHabit) {
+  return goodHabit===everyDay
+}
+
+var expected = onhabit("time to eat");
+console.log("expected", expected)
+assert(expected, "health is not good");
+assert.ok(expected, "health is not good");
+  </code>
 </details>
  
 ### buffer
