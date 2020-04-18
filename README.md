@@ -16,7 +16,7 @@
   A system funcationality based unwanted information coming. that system will throw the error.
   <code>
     var assert = require("assert");
-
+```
 var everyDay = "time to eat"  relavant information
 <! –– var everyDay = "not time to eat"  irrelavant information ––> 
 function onhabit(goodHabit) {
@@ -29,7 +29,7 @@ assert(expected, "health is not good");
 assert.ok(expected, "health is not good");
   </code>
 </details>
- 
+```
 ### buffer
  Prior to the introduction of TypedArray in ECMAScript 2015 (ES6), the JavaScript language had no mechanism for reading or manipulating streams of binary data. The Buffer class was introduced as part of the Node.js API to make it possible to interact with octet streams in the context of things like TCP streams and file system operations.
 
