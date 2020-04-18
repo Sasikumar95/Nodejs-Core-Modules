@@ -13,27 +13,27 @@
  The assert module provides a simple set of assertion tests that can be used to test invariants.
 <details>
   <summary>Example</summary>
-   A system funcationality based unwanted information coming. that time system will throw the error.
+   A system funcationality based unwanted information coming time. that system will throw the Error Message.
        
-       ```
-         var assert = require("assert");
+     ```
+       var assert = require("assert");
          
-         //user Info
-         var everyDay = "time to eat";
+       //user Info
+       var everyDay = "time to eat";
          
-         // some times var everyDay = "not time to eat";
-         // it's will return error "health is not good"
+       // some times var everyDay = "not time to eat";
+       // it's will return error "health is not good"
          
-         function onHabit(goodHabit) {
-           return goodHabit===everyDay
-         }
+       function onHabit(goodHabit) {
+         return goodHabit===everyDay
+       }
          
-         var expected = onHabit("time to eat");
+       var expected = onHabit("time to eat");
          
-        assert(expected, "health is not good");
-        assert.ok(expected, "health is not good");
+       assert(expected, "health is not good");
+       assert.ok(expected, "health is not good");
         
-      ```
+     ```
   [Node.js/assert](https://nodejs.org/api/assert.html)
 </details>
 
